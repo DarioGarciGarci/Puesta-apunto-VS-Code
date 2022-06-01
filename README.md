@@ -2,7 +2,7 @@
 Plugins utiles
 
 ## Extensiones de VSCode
-[Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+[Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) (Descativar: View > Appearance > Show Activity Bar)
 
 ### Configuración del Bracket Pair Colorizer 
 
